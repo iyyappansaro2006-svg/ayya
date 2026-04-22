@@ -1,0 +1,7 @@
+name: Secure Workflow
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
